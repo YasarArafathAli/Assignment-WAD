@@ -1,0 +1,76 @@
+
+        body {
+            background-color: #0f0f13;
+            font-family: 'Open Sans', sans-serif;
+            color: #fff;
+            font-size: 1.2rem;
+            flex-wrap: nowrap;
+            text-align: center;
+            align-items: center;
+        }
+
+        h1 {
+            font-family: 'Carter One', cursive;
+            color: #e90c31;
+            font-size: 90px;
+        }
+
+        h3 {
+            /* font-family: 'Carter One', cursive; */
+            color: #379ad6;
+        }
+
+        a {
+            text-decoration: none;
+            color: #f7e018;
+        }
+
+        .header {
+            height: 400px;
+            text-align: center;
+            padding: 60px 20px;
+        }
+
+        table {
+            margin: auto;
+        }
+
+        img {
+            width: 120px;
+            padding: 15px;
+        }
+
+        form {
+            text-align: justify;
+            padding-left: 400px;
+
+        }
+
+        label {}
+
+        input {
+            width: 500px;
+            height: 40px;
+            border-radius: 10px;
+            border: #e90c31 2px solid;
+
+
+        }
+
+        textarea {
+            border-radius: 10px;
+            border: #e90c31 2px solid;
+
+        }
+
+        button {
+            padding: 10px;
+            margin: 5px;
+            border-radius: 10px;
+            border: #e90c31 2px solid;
+        }
+
+        td {
+            padding: 20px;
+        }
+  
