@@ -1,28 +1,33 @@
 
+        html{
+            scroll-behavior: smooth;
+        }
         body {
-            background: url('https://www.wallpapers4u.org/wp-content/uploads/surface_dark_background_texture_50754_1920x1080.jpg') no-repeat center fixed;
-            /* background-color: #0f0f13; */
+            background-color: #2b2b2b;
             font-family: 'Open Sans', sans-serif;
             color: #fff;
             font-size: 1.2rem;
-            flex-wrap: nowrap;
             text-align: center;
-            align-items: center;
         }
         dd{
           margin: 10px;  
         }
         h1 {
-            font-family: 'Carter One', cursive;
-            color: #e90c31;
-            font-size: 90px;
+            font-family: 'Allura', cursive;
+            color: #ef233c;
+            font-size: 100px;
         }
 
         h3 {
             /* font-family: 'Carter One', cursive; */
             color: #379ad6;
         }
-
+        header{
+            position: fixed;
+        }
+        li{
+            padding: 20px;
+        }
         a {
             text-decoration: none;
             color: #f7e018;
@@ -31,7 +36,6 @@
         .header {
             
             height: 400px;
-            text-align: center;
             padding: 60px 20px;
         }
 
@@ -45,12 +49,10 @@
         }
 
         form {
-            text-align: justify;
+            text-align: left;
             padding-left: 400px;
 
         }
-
-        label {}
 
         input {
             width: 500px;
@@ -75,7 +77,7 @@
         }
 
         button:hover{
-            background: #fff;
+            background: #ccc;
         }
         td {
             padding: 20px;
